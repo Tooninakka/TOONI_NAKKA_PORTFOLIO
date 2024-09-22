@@ -35,7 +35,7 @@ function Hero() {
       </div>
       <div className={styles.info}>
         <h1>Tooni Nakka</h1>
-        <h2>Python Full Stack Developer</h2>
+        <h2>Data Analyst</h2>
         <br />
         <span>
           <a href="https://x.com/TNakka47297/" target="blank">
